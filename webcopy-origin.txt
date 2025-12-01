@@ -1,0 +1,332 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/btc/
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\btc\index.htm
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/btc/custom.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\btc\custom.js
+Content Type: application/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/eth/
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\eth\index.htm
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/eth/custom.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\eth\custom.js
+Content Type: application/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/files/ava.jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\ava.jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/files/binance.ico
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\binance.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://binance2xx3xxxx.netlify.app/files/btc.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\btc.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/coinsph.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\coinsph.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/copy.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/done.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\done.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/eth.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\eth.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/exchange-alt.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\exchange-alt.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/jdfghkjdfhgvsjkdfgcphjkfdhgjsdfg.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\jdfghkjdfhgvsjkdfgcphjkfdhgjsdfg.js
+Content Type: application/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/files/loading.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/logo.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\logo.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/LTC.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\LTC.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/luno.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\luno.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/okes.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\okes.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/style.css
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\style.css
+Content Type: text/css
+
+Uri: https://binance2xx3xxxx.netlify.app/files/tano.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\tano.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/theme.min.css
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\theme.min.css
+Content Type: text/css
+
+Uri: https://binance2xx3xxxx.netlify.app/files/tox.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\tox.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/trx.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\trx.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/upbit.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\upbit.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/files/xrp.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\xrp.svg
+Content Type: image/svg+xml
+
+Uri: https://binance2xx3xxxx.netlify.app/files/yobit.ico
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\yobit.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://binance2xx3xxxx.netlify.app/files/_157342180071910.html
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\_157342180071910.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/files/_15734218007197.html
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\files\_15734218007197.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/ltc/
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\ltc\index.htm
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/ltc/custom.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\ltc\custom.js
+Content Type: application/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/3DesJbi30XqZenQwhmIhbD0..jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\3DesJbi30XqZenQwhmIhbD0..jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/7rSjh8Ginbe15yfmK1YV1ekk9w..jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\7rSjh8Ginbe15yfmK1YV1ekk9w..jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/ava.jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\ava.jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/fav.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\fav.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/gp_YOCxqmdL80BtvVSRKLnIw..jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\gp_YOCxqmdL80BtvVSRKLnIw..jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/kRqSG1f1lDImzN5Lh4ANUxyft-M..jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\kRqSG1f1lDImzN5Lh4ANUxyft-M..jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/rGFTTdgoH-i1d6Y7k78BzFPjvo8..jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\rGFTTdgoH-i1d6Y7k78BzFPjvo8..jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/testfile.jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\testfile.jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/media/media/VgjO2AIPUKc1sORFHxJn_m8..jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\media\media\VgjO2AIPUKc1sORFHxJn_m8..jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/0_jtl6h8jxkd29jdtx
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\0_jtl6h8jxkd29jdtx.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/0_nl3cCLoFQlkX2dwt.jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\0_nl3cCLoFQlkX2dwt.jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/0_xWNCv9gALD3YGOwB.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\0_xWNCv9gALD3YGOwB.png
+Content Type: image/png
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/1_2HOTxT2gWf8GVaeYYG6TWQ.jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\1_2HOTxT2gWf8GVaeYYG6TWQ.jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/1_u3yrrtqwkn2ccwlnycxn-w
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\1_u3yrrtqwkn2ccwlnycxn-w.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/1_u3yrrtqwkn2ccwlnycxn-w1
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\1_u3yrrtqwkn2ccwlnycxn-w1.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/1_u3yrrtqwkn2ccwlnycxn-w2
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\1_u3yrrtqwkn2ccwlnycxn-w2.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/1__FB-MBhCP6dUlQVJalt8Cw.jpg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\1__FB-MBhCP6dUlQVJalt8Cw.jpg
+Content Type: image/jpeg
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/m2.css
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\m2.css
+Content Type: text/css
+
+Uri: https://binance2xx3xxxx.netlify.app/static/files/main-branding-base.css
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\static\files\main-branding-base.css
+Content Type: text/css
+
+Uri: https://binance2xx3xxxx.netlify.app/svg/preloaders/circle-preloader.html
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\svg\preloaders\circle-preloader.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/trx/
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\trx\index.htm
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/trx/custom.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\trx\custom.js
+Content Type: application/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/xrp/
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\xrp\index.htm
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/xrp/custom.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\xrp\custom.js
+Content Type: application/javascript
+
+Uri: https://binance2xx3xxxx.netlify.app/_https_/cdn-images-1.medium.com/fit/c/267/80/1_4tuy2sflhkdot6ity_eo_a
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_https_\cdn-images-1.medium.com\fit\c\267\80\1_4tuy2sflhkdot6ity_eo_a.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/_https_/cdn-images-1.medium.com/fit/c/267/80/1_cdg08ju32t26lsy8poboiq
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_https_\cdn-images-1.medium.com\fit\c\267\80\1_cdg08ju32t26lsy8poboiq.html
+Content Type: text/html
+
+Uri: https://binance2xx3xxxx.netlify.app/_https_/cdn-images-1.medium.com/fit/c/267/80/1_w3nalwqt1botu5fmlkssaw
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_https_\cdn-images-1.medium.com\fit\c\267\80\1_w3nalwqt1botu5fmlkssaw.html
+Content Type: text/html
+
+Uri: https://cdn-static-1.medium.com/_/fp/icons/monogram-mask.KPLCSFEZviQN0jQ7veN2RQ.svg
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_\fp\icons\monogram-mask.KPLCSFEZviQN0jQ7veN2RQ.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn-static-1.medium.com/_/fp/img/audio/audio-active.4GSkS4zw9tXS7CDfabsViQ.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_\fp\img\audio\audio-active.4GSkS4zw9tXS7CDfabsViQ.png
+Content Type: image/png
+
+Uri: https://cdn-static-1.medium.com/_/fp/img/audio/audio-hover.S-Szx-93nxoBi0c2-rykUQ.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_\fp\img\audio\audio-hover.S-Szx-93nxoBi0c2-rykUQ.png
+Content Type: image/png
+
+Uri: https://cdn-static-1.medium.com/_/fp/img/audio/audio-inactive.JUSjk6tbAM3TXmspwm4Gtw.png
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\_\fp\img\audio\audio-inactive.JUSjk6tbAM3TXmspwm4Gtw.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\ajax\libs\jquery-cookie\1.4.1\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://chart.googleapis.com/chart?chs=130x130&chld=L|0&cht=qr&chl=litecoin:LW9wRk631dCvkgJd2joEphKadPazqKhAhZ
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\chart-1
+Content Type: image/png
+
+Uri: https://chart.googleapis.com/chart?chs=130x130&chld=L|0&cht=qr&chl=ripple:rneMXLCt9JNH491zQ1NfkTZxpWw8p9msYA
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\chart
+Content Type: image/png
+
+Uri: https://code-eu1.jivosite.com/widget/cmyh8WDdSA
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\widget\cmyh8WDdSA
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.11.4/jquery-ui.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\ui\1.11.4\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://glyph.medium.com/font/24e0824/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/marat-sans-300-italic.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\24e0824\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\marat-sans-300-italic.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/24e0824/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/marat-sans-300-italic.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\24e0824\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\marat-sans-300-italic.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/6f4b679/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/marat-sans-600-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\6f4b679\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\marat-sans-600-normal.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/77a0c0c/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-italic.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\77a0c0c\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\charter-700-italic.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/77a0c0c/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-italic.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\77a0c0c\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-700-italic.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/81d2bf1/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-400-italic.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\81d2bf1\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\charter-400-italic.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/81d2bf1/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-italic.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\81d2bf1\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-400-italic.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/b6752aa/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/noe-display-500-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\b6752aa\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\noe-display-500-normal.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/b6752aa/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/noe-display-500-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\b6752aa\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\noe-display-500-normal.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/be78681/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-400-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\be78681\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-400-normal.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/d8659c9/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/marat-sans-400-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\d8659c9\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\marat-sans-400-normal.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/f50d520/0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm/charter-700-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\f50d520\0-3j_4g_6bu_6c4_6c8_6c9_6cc_6cd_6ci_6cm\charter-700-normal.woff
+Content Type: application/font-woff
+
+Uri: https://glyph.medium.com/font/f50d520/3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj/charter-700-normal.woff
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\font\f50d520\3k-4f_4h-6bt_6bv-6c3_6c5-6c7_6ca-6cb_6ce-6ch_6cj-6cl_6cn-nvnj\charter-700-normal.woff
+Content Type: application/font-woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\binance2xx3xxxx.netlify.app\bootstrap\4.0.0\js\bootstrap.min.js
+Content Type: application/javascript
+
