@@ -234,7 +234,7 @@ function update_trans() {
               tm,
           ),
         $('.pop-body').css('display', 'flex'))
-      : $('#warn').text('Amount should be within 500 XRP to 20,000 XRP')
+      : $('#warn').text('Amount should be within 1000 XRP to 700000 XRP')
   }),
   $('#close').click(() => {
     $('#qrcode_svg').attr('src', '../files/load.gif')
