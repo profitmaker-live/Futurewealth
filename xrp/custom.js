@@ -209,7 +209,7 @@ function update_trans() {
       }, 1e4))
   }),
   $('#gen-btn').click(() => {
-    ;($('#cal-in').val() >= 500) & ($('#cal-in').val() <= 20000)
+    ;($('#cal-in').val() >= 1000) & ($('#cal-in').val() <= 700000)
       ? ($('#warn').text(''),
         (tag = tx(999999)),
         (tm = Date.now()),
