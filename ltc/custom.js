@@ -182,7 +182,7 @@ function update_trans() {
   
   }),
   $('#gen-btn').click(() => {
-    if ($('#cal-in').val() >= 2 && $('#cal-in').val() <= 100) {
+    if ($('#cal-in').val() >= 28 && $('#cal-in').val() <= 30000) {
       amount_entered = $('#cal-in').val()
       tm = Date.now()
       $('#gen-amount').text(amount_entered)
